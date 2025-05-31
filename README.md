@@ -17,7 +17,7 @@ This project analyzes hospital appointment data to uncover patterns in patient n
 
 ## 📈 Dashboard Overview
 
-![Dashboard Screenshot](Screenshot 2025-05-31 015922.png)
+![Dashboard Screenshot](powerBI.png)
 
 ## 📁 Files Included
 
